@@ -38,6 +38,6 @@
 
 ### Updates
 
-* Lab03 uploaded (2021-10-13) ([473e359](https://github.com/imzorin-rudn/InformacionnayaBezopasnostZorin/tree/main/Lab03) (1.3.0)
+* Lab03 uploaded (2021-10-13) ([473e359](https://github.com/imzorin-rudn/InformacionnayaBezopasnostZorin/tree/main/Lab03)) (1.3.0)
 
 
