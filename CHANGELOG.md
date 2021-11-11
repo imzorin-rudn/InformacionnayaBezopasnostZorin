@@ -53,4 +53,19 @@
 
 ### Updates
 
-* Lab03 uploaded (2021-10-24) ([t74e3y9](https://github.com/imzorin-rudn/InformacionnayaBezopasnostZorin/tree/main/Lab04)) (1.4.0)
+* Lab04 uploaded (2021-10-24) ([t74e3y9](https://github.com/imzorin-rudn/InformacionnayaBezopasnostZorin/tree/main/Lab04)) (1.4.0)
+
+# 1.5.0 (2021-11-11)
+
+
+### Bug Fixes
+
+* no changes
+
+### Features
+
+* no changes
+
+### Updates
+
+* Lab05 uploaded (2021-11-11) ([u74e5y2](https://github.com/imzorin-rudn/InformacionnayaBezopasnostZorin/tree/main/Lab05)) (1.5.0)
