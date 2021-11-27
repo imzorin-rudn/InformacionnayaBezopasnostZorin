@@ -83,4 +83,4 @@
 
 ### Updates
 
-* Lab05 uploaded (2021-11-27) ([i72e5y1](https://github.com/imzorin-rudn/InformacionnayaBezopasnostZorin/tree/main/Lab06)) (1.6.0)
+* Lab06 uploaded (2021-11-27) ([i72e5y1](https://github.com/imzorin-rudn/InformacionnayaBezopasnostZorin/tree/main/Lab06)) (1.6.0)
