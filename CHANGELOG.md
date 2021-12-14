@@ -84,3 +84,18 @@
 ### Updates
 
 * Lab06 uploaded (2021-11-27) ([i72e5y1](https://github.com/imzorin-rudn/InformacionnayaBezopasnostZorin/tree/main/Lab06)) (1.6.0)
+
+# 1.8.0 (2021-12-14)
+
+
+### Bug Fixes
+
+* no changes
+
+### Features
+
+* no changes
+
+### Updates
+
+* Lab06 uploaded (2021-12-14) ([o71e5e3](https://github.com/imzorin-rudn/InformacionnayaBezopasnostZorin/tree/main/Lab08)) (1.8.0)
